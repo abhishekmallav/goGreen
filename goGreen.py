@@ -64,10 +64,10 @@ def commit_data(iso_dt: str, message: str | None = None):
     #     "GIT_COMMITTER_NAME": iso_dt,
     # }
     env = {
-        "GIT_AUTHOR_NAME": "Natalie",  # your name
-        "GIT_AUTHOR_EMAIL": "natromanav@gmail.com",  # your GitHub email
-        "GIT_COMMITTER_NAME": "Natalie",  # your name
-        "GIT_COMMITTER_EMAIL": "natromanav@gmail.com",  # your GitHub email
+        "GIT_AUTHOR_NAME": "name",  # your name
+        "GIT_AUTHOR_EMAIL": "email@example.com",  # your GitHub email
+        "GIT_COMMITTER_NAME": "name",  # your name
+        "GIT_COMMITTER_EMAIL": "email@example.com",  # your GitHub email
     }
 
     status = run_git(["diff", "--cached", "--quiet"], check=False)
