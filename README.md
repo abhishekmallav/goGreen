@@ -25,20 +25,19 @@ Paint your GitHub contribution graph with backdated commits.
 ## Installation & Setup
 
 1. **Clone the repository:**
-  
-  ```bash
-  git clone https://github.com/abhishekmallav/goGreen.git
-  cd goGreen
-  ```
-  
+
+   ```bash
+   git clone https://github.com/abhishekmallav/goGreen.git
+   cd goGreen
+   ```
+
 2. **Ensure Python 3.9+ and Git are installed.**
 3. **(Optional) Create a virtual environment:**
-  
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
-  
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
 ## Usage
 
@@ -94,10 +93,10 @@ Feel free to fork, open issues or submit pull requests on [GitHub](https://githu
 
 For any questions or feedback, please open an issue or reach out via socials below.
 
-[](https://www.linkedin.com/in/abhishekmallav)
-[](mailto:abhimallav1439@gmail.com?subject=Hello%20There&body=Just%20wanted%20to%20say%20hi!)
-[](https://www.instagram.com/abhishekmallav)
-[](https://www.x.com/abhishekmallav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmallav)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhimallav1439@gmail.com?subject=Hello%20There&body=Just%20wanted%20to%20say%20hi!)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekmallav)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/abhishekmallav)
 
 ## Credits / Acknowledgments
 
